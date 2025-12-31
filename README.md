@@ -283,50 +283,21 @@ L'application consomme les endpoints suivants :
 ## 📸 Captures d'écran
 
 ### Backend Spring
-![Backend-Spring](app/Screen/Backend-Spring.png)
+<img width="801" height="515" alt="Backend" src="https://github.com/user-attachments/assets/9cf02500-27eb-47de-be3a-0cccaba39e90" />
+
 
 ### Ajouter un Compte
-![Ajouter-Compte](app/Screen/Ajouter-Compte.png)
+
+<img width="761" height="505" alt="ajouter" src="https://github.com/user-attachments/assets/afefa792-0d8d-4df5-bafb-dc0b142496b8" />
 
 ### Modifier un Compte
-![Modifier-Compte](app/Screen/Modifier-Compte.png)
+<img width="765" height="515" alt="modifier" src="https://github.com/user-attachments/assets/458d3bbf-e580-4f7a-b75e-22245afedbfe" />
+
 
 ### Supprimer un Compte
-![Supprimer-Compte](app/Screen/Supprimer-Compte.png)
+<img width="753" height="507" alt="supprimer" src="https://github.com/user-attachments/assets/b73541ed-6b6c-4f59-b938-9e826006d6fc" />
 
-## 📝 Exercices Pratiques
 
-### Niveau Débutant
-1. Changer la couleur du thème de l'application
-2. Ajouter un champ pour saisir la date manuellement
-3. Afficher un message de bienvenue au démarrage
-
-### Niveau Intermédiaire
-1. Ajouter un filtre pour afficher uniquement les comptes COURANT ou EPARGNE
-2. Implémenter une recherche par solde minimum
-3. Ajouter une validation du solde (minimum 0)
-
-### Niveau Avancé
-1. Implémenter la pagination pour grandes listes
-2. Ajouter un système de cache local (Room Database)
-3. Gérer le mode hors ligne avec synchronisation
-4. Ajouter des animations lors des opérations CRUD
-
-## 🤝 Contribution
-
-Ce projet est un TP éducatif. N'hésitez pas à :
-- Proposer des améliorations
-- Signaler des bugs
-- Ajouter de nouvelles fonctionnalités
-- Améliorer la documentation
-
-## 📄 Licence
-
-Projet éducatif - Libre d'utilisation pour l'apprentissage
-
-## 👨‍🏫 Auteur
-
-Travail Pratique - Développement Mobile Android
 
 ---
 
